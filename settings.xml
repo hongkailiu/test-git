@@ -1,0 +1,9 @@
+<settings>
+    <mirrors>
+        <mirror>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+            <mirrorOf>jitpack</mirrorOf>
+        </mirror>
+    </mirrors>
+</settings>

@@ -1,2 +1,2 @@
 cd t-app
-mvn install
+mvn install --settings ../settings.xml
